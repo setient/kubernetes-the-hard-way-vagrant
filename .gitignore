@@ -2,3 +2,4 @@
 .*.swp
 *console.log
 .vagrant/
+Vagrantfile
